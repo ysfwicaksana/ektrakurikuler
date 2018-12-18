@@ -1,0 +1,50 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+.container-web {
+    width: 950px;
+    margin:auto;
+}
+
+.logo {
+    width:50ox;
+    height:50px;
+    display: block;
+    margin:5px;
+    font-family: sans-serif;
+}
+
+.left {
+    float:left;
+}
+
+.right {
+    float:right;
+}
+
+.brand-text {
+    margin:5px;
+    color:darkblue;
+    font-size: 40px;
+}
+
+.clear {
+    clear: both;
+}
+
+hr.separate {
+    border-color: cornflowerblue;
+    color:cornflowerblue;
+}
+
+.login {
+    padding:2px 9px;
+    margin-top:30px;
+}
+
+h1.brand-text {
+    font-family: fantasy;
+    font-size: 50px;
+}
